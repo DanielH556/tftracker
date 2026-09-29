@@ -1,0 +1,466 @@
+{
+    "Leona": {
+        "id": 1,
+        "trait": "Defender",
+        "origin": "Solar",
+        "cost": 1,
+        "icon": "big_frames_units/set18/leona.png"
+    },
+    "Xayah": {
+        "id": 2,
+        "trait": "Rapidfire",
+        "origin": "Elderwood",
+        "origin2": "Fae",
+        "cost": 1,
+        "icon": "big_frames_units/set18/xayah.png"
+    },
+    "Rakan": {
+        "id": 3,
+        "trait": "Vanguard",
+        "trait2": "Juggernaut",
+        "origin": "Fae",
+        "cost": 1,
+        "icon": "big_frames_units/set18/rakan.png"
+    },
+    "Varus": {
+        "id": 4,
+        "trait": "Rapidfire",
+        "origin": "Inferno",
+        "cost": 1,
+        "icon": "big_frames_units/set18/varus.png"
+    },
+    "Akali": {
+        "id": 5,
+        "trait": "Ravager",
+        "origin": "Inferno",
+        "origin2": "Adaptor",
+        "cost": 1,
+        "icon": "big_frames_units/set18/akali.png"
+    },
+    "Veigar": {
+        "id": 6,
+        "trait": "Spellweaver",
+        "trait2": "Sprykin",
+        "origin": "Blackthorn",
+        "cost": 1,
+        "icon": "big_frames_units/set18/veigar.png"
+    },
+    "Kobuko": {
+        "id": 7,
+        "trait": "Brawler",
+        "origin": "Sprykin",
+        "cost": 1,
+        "icon": "big_frames_units/set18/kobuko.png"
+    },
+    "Cinderling": {
+        "id": 8,
+        "trait": "Hunter",
+        "origin": "Riftbeast",
+        "cost": 1,
+        "icon": "big_frames_units/set18/cinderling.png"
+    },
+    "Pebbles": {
+        "id": 9,
+        "trait": "Invoker",
+        "origin": "Riftbeast",
+        "cost": 1,
+        "icon": "big_frames_units/set18/pebbles.png"
+    },
+    "Karma": {
+        "id": 10,
+        "trait": "Spellweaver",
+        "origin": "Blossom",
+        "cost": 1,
+        "icon": "big_frames_units/set18/karma.png"
+    },
+    "Yorick": {
+        "id": 11,
+        "trait": "Juggernaut",
+        "trait2": "Summoner",
+        "origin": "Blossom",
+        "cost": 1,
+        "icon": "big_frames_units/set18/yorick.png"
+    },
+    "Ornn": {
+        "id": 12,
+        "trait": "Defender",
+        "origin": "Elderwood",
+        "cost": 1,
+        "icon": "big_frames_units/set18/ornn.png"
+    },
+    "Rek'Sai": {
+        "id": 13,
+        "trait": "Brawler",
+        "origin": "Blackthorn",
+        "cost": 1,
+        "icon": "big_frames_units/set18/reksai.png"
+    },
+    "Camille": {
+        "id": 14,
+        "trait": "Ravager",
+        "origin": "Coven",
+        "cost": 1,
+        "icon": "big_frames_units/set18/camille.png"
+    },
+    "Elise": {
+        "id": 15,
+        "trait": "Vanguard",
+        "origin": "Coven",
+        "cost": 2,
+        "icon": "big_frames_units/set18/elise.png"
+    },
+    "LeBlanc": {
+        "id": 16,
+        "trait": "Spellweaver",
+        "origin": "Elderwood",
+        "cost": 2,
+        "icon": "big_frames_units/set18/leblanc.png"
+    },
+    "Caitlyn": {
+        "id": 17,
+        "trait": "Hunter",
+        "origin": "Coven",
+        "cost": 2,
+        "icon": "big_frames_units/set18/caitlyn.png"
+    },
+    "Alistar": {
+        "id": 18,
+        "trait": "Brawler",
+        "origin": "Elderwood",
+        "cost": 2,
+        "icon": "big_frames_units/set18/alistar.png"
+    },
+    "Warwick": {
+        "id": 19,
+        "trait": "Ravager",
+        "origin": "Blackthorn",
+        "cost": 2,
+        "icon": "big_frames_units/set18/warwick.png"
+    },
+    "Kayle": {
+        "id": 20,
+        "trait": "Rapidfire",
+        "origin": "Solar",
+        "cost": 2,
+        "icon": "big_frames_units/set18/kayle.png"
+    },
+    "Sejuani": {
+        "id": 21,
+        "trait": "Juggernaut",
+        "origin": "Solar",
+        "cost": 2,
+        "icon": "big_frames_units/set18/sejuani.png"
+    },
+    "Gromp": {
+        "id": 22,
+        "trait": "Adaptor",
+        "origin": "Riftbeast",
+        "cost": 2,
+        "icon": "big_frames_units/set18/gromp.png"
+    },
+    "Scuttlecrab": {
+        "id": 23,
+        "trait": "Juggernaut",
+        "origin": "Riftbeast",
+        "cost": 2,
+        "icon": "big_frames_units/set18/scuttlecrab.png"
+    },
+    "Yunara": {
+        "id": 24,
+        "trait": "Executioner",
+        "origin": "Blossom",
+        "cost": 2,
+        "icon": "big_frames_units/set18/yunara.png"
+    },
+    "Teemo": {
+        "id": 25,
+        "trait": "Invoker",
+        "origin": "Sprykin",
+        "cost": 2,
+        "icon": "big_frames_units/set18/teemo.png"
+    },
+    "MurkWolf": {
+        "id": 26,
+        "trait": "Ravager",
+        "origin": "Riftbeast",
+        "cost": 2,
+        "icon": "big_frames_units/set18/murkwolf.png"
+    },
+    "Shen": {
+        "id": 27,
+        "trait": "Defender",
+        "origin": "Inferno",
+        "cost": 2,
+        "icon": "big_frames_units/set18/shen.png"
+    },
+    "Raptor": {
+        "id": 28,
+        "trait": "Rapidfire",
+        "trait2": "Summoner", 
+        "origin": "Riftbeast",
+        "cost": 3,
+        "icon": "big_frames_units/set18/raptor.png"
+    },
+    "Hecarim": {
+        "id": 29,
+        "trait": "Vanguard",
+        "origin": "Elderwood",
+        "cost": 3,
+        "icon": "big_frames_units/set18/hecarim.png"
+    },
+    "Krug": {
+        "id": 30,
+        "trait": "Brawler",
+        "origin": "Riftbeast",
+        "cost": 3,
+        "icon": "big_frames_units/set18/krug.png"
+    },
+    "Cassiopeia": {
+        "id": 31,
+        "trait": "Executioner",
+        "origin": "Coven",
+        "cost": 3,
+        "icon": "big_frames_units/set18/cassiopeia.png"
+    },
+    "Fiddlesticks": {
+        "id": 32,
+        "trait": "Spellweaver",
+        "trait2": "Defender",
+        "origin": "Flora Fatalis",
+        "cost": 3,
+        "icon": "big_frames_units/set18/fiddlesticks.png"
+    },
+    "Rammus": {
+        "id": 33,
+        "trait": "Defender",
+        "origin": "Sprykin",
+        "cost": 3,
+        "icon": "big_frames_units/set18/rammus.png"
+    },
+    "Diana": {
+        "id": 34,
+        "trait": "Ravager",
+        "trait2": "Vanguard",
+        "origin": "Lunar",
+        "cost": 3,
+        "icon": "big_frames_units/set18/diana.png"
+    },
+    "Tristana": {
+        "id": 35,
+        "trait": "Hunter",
+        "origin": "Fae",
+        "origin2": "Sprykin",
+        "cost": 3,
+        "icon": "big_frames_units/set18/tristana.png"
+    },
+    "Master Yi": {
+        "id": 36,
+        "trait": "Adaptor",
+        "origin": "Blossom",
+        "cost": 3,
+        "icon": "big_frames_units/set18/master_yi.png"
+    },
+    "Rengar": {
+        "id": 37,
+        "trait": "Rival",
+        "cost": 3,
+        "icon": "big_frames_units/set18/rengar.png"
+    },
+    "KhaZix": {
+        "id": 38,
+        "trait": "Rival",
+        "cost": 3,
+        "icon": "big_frames_units/set18/khazix.png"
+    },
+    "Azir": {
+        "id": 39,
+        "trait": "Executioner",
+        "trait2": "Summoner",
+        "origin": "Blackthorn",
+        "cost": 3,
+        "icon": "big_frames_units/set18/azir.png"
+    },
+    "KogMaw": {
+        "id": 40,
+        "trait": "Invoker",
+        "trait2": "Adaptor",
+        "origin": "Caustic",
+        "cost": 3,
+        "icon": "big_frames_units/set18/kogmaw.png"
+    },
+    "Vi": {
+        "id": 41,
+        "trait": "Juggernaut",
+        "origin": "Primal",
+        "cost": 3,
+        "icon": "big_frames_units/set18/vi.png"
+    },
+    "Morgana": {
+        "id": 42,
+        "trait": "Invoker",
+        "origin": "Coven",
+        "cost": 4,
+        "icon": "big_frames_units/set18/morgana.png"
+    },
+    "Ahri": {
+        "id": 43,
+        "trait": "Spellweaver",
+        "origin": "Blossom",
+        "cost": 4,
+        "icon": "big_frames_units/set18/ahri.png"
+    },
+    "Aphelios": {
+        "id": 44,
+        "trait": "Rapidfire",
+        "origin": "Lunar",
+        "cost": 4,
+        "icon": "big_frames_units/set18/aphelios.png"
+    },
+    "Sentinel": {
+        "id": 45,
+        "trait": "Invoker",
+        "trait2": "Vanguard",
+        "origin": "Riftbeast",
+        "cost": 4,
+        "icon": "big_frames_units/set18/ancient_sentinel.png"
+    },
+    "Brambleback": {
+        "id": 46,
+        "trait": "Ravager",
+        "origin": "Riftbeast",
+        "cost": 4,
+        "icon": "big_frames_units/set18/brambleback.png"
+    },
+    "Lillia": {
+        "id": 47,
+        "trait": "Defender",
+        "origin": "Fae",
+        "cost": 4,
+        "icon": "big_frames_units/set18/lillia.png"
+    },
+    "Soraka": {
+        "id": 48,
+        "trait": "Executioner",
+        "origin": "Flora Fatalis",
+        "cost": 4,
+        "icon": "big_frames_units/set18/soraka.png"
+    },
+    "Malphite": {
+        "id": 49,
+        "trait": "Monolith",
+        "origin": "Blackthorn",
+        "cost": 4,
+        "icon": "big_frames_units/set18/malphite.png"
+    },
+    "Nidalee": {
+        "id": 50,
+        "trait": "Adaptor",
+        "origin": "Primal",
+        "cost": 4,
+        "icon": "big_frames_units/set18/nidalee.png"
+    },
+    "Sivir": {
+        "id": 51,
+        "trait": "Hunter",
+        "origin": "Primal",
+        "cost": 4,
+        "icon": "big_frames_units/set18/sivir.png"
+    },
+    "Ezreal": {
+        "id": 52,
+        "trait": "Executioner",
+        "origin": "Elderwood",
+        "cost": 4,
+        "icon": "big_frames_units/set18/ezreal.png"
+    },
+    "Amumu": {
+        "id": 53,
+        "trait": "Juggernaut",
+        "origin": "Inferno",
+        "cost": 4,
+        "icon": "big_frames_units/set18/amumu.png"
+    },
+    "Sett": {
+        "id": 54,
+        "trait": "Brawler",
+        "origin": "Blossom",
+        "cost": 4,
+        "icon": "big_frames_units/set18/sett.png"
+    },
+    "Zyra": {
+        "id": 55,
+        "trait": "Summoner",
+        "origin": "Thornmaiden",
+        "cost": 4,
+        "icon": "big_frames_units/set18/zyra.png"
+    },
+    "Alune": {
+        "id": 56,
+        "trait": "Spellweaver",
+        "origin": "Lunar",
+        "origin2": "Attuned",
+        "cost": 5,
+        "icon": "big_frames_units/set18/alune.png"
+    },
+    "Taric": {
+        "id": 57,
+        "trait": "Vanguard",
+        "origin": "Emerald Aspect",
+        "cost": 5,
+        "icon": "big_frames_units/set18/taric.png"
+    },
+    "ElderDragon": {
+        "id": 58,
+        "trait": "Apex Predator",
+        "origin": "Riftbeast",
+        "cost": 5,
+        "icon": "big_frames_units/set18/elder_dragon.png"
+    },
+    "Lux": {
+        "id": 59,
+        "trait": "Avatar",
+        "cost": 5,
+        "icon": "big_frames_units/set18/lux.png"
+    },
+    "Gnar": {
+        "id": 60,
+        "trait": "Brawler",
+        "origin": "Elderwood",
+        "origin2": "Sprykin",
+        "cost": 5,
+        "icon": "big_frames_units/set18/gnar.png"
+    },
+    "Ivern": {
+        "id": 61,
+        "trait": "Greenfather",
+        "cost": 5,
+        "icon": "big_frames_units/set18/ivern.png"
+    },
+    "Maokai": {
+        "id": 62,
+        "trait": "Juggernaut",
+        "origin": "Old Growth",
+        "cost": 5,
+        "icon": "big_frames_units/set18/maokai.png"
+    },
+    "Draven": {
+        "id": 63,
+        "trait": "Bounty Seeker",
+        "cost": 5,
+        "icon": "big_frames_units/set18/draven.png"
+    },
+    "Ashe": {
+        "id": 64,
+        "trait": "Hunter",
+        "origin": "Blossom",
+        "cost": 5,
+        "icon": "big_frames_units/set18/ashe.png"
+    },
+    "Kennen": {
+        "id": 65,
+        "trait": "Executioner",
+        "origin": "Inferno",
+        "cost": 5,
+        "icon": "big_frames_units/set18/kennen.png"
+    }
+}

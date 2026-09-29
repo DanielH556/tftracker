@@ -1,0 +1,25 @@
+.item-icon {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.item-icon:hover {
+    cursor: pointer;
+    filter: opacity(100%);
+}
+
+.image-label {
+    cursor: pointer;
+    display: inline-block;
+}
+
+.component-icon {
+    margin: 3px;
+    filter: opacity(40%);
+}
+
+.item-icon:checked + .image-label .component-icon {
+    filter: opacity(100%);
+}

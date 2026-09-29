@@ -1,0 +1,33 @@
+.unit-icon {
+        position: absolute;
+        opacity: 0;
+        width: 0;
+        height: 0;
+}
+
+.unit-icon:hover {
+    cursor: pointer;
+}
+
+.unit-icon:checked {
+    cursor: pointer;
+
+    opacity: 100%;
+}
+
+.image-label {
+    cursor: pointer;
+    display: inline-block;
+}
+
+.checkbox-image {
+    width: 55px;
+    height: 60px;
+
+    filter: grayscale(100%) opacity(60%);
+}
+
+.unit-icon:checked + .image-label .checkbox-image {
+    filter: grayscale(0%) opacity(100%);
+    transform: scale(1.03);
+}

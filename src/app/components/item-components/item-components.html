@@ -1,0 +1,13 @@
+<div class="container">
+    <h1>Components</h1>
+    <div class="item-component-container">
+        @for (component of componentsList; track component.id) {
+            <app-item-components-single
+                [id]="component.id"
+                [name]="component.name"
+                [iconUrl]="component.iconUrl"
+                (click)="enableItem(component.id)"
+            />
+        }
+    </div>
+</div>
