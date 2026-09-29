@@ -1,0 +1,52 @@
+[
+    {
+        "id": 0,
+        "name": "Recurve Bow",
+        "iconUrl": "items/components/recurve_bow.png"
+    },
+        {
+        "id": 1,
+        "name": "Sparring Glove",
+        "iconUrl": "items/components/sparring_glove.png"
+    },
+        {
+        "id": 2,
+        "name": "B.F. Sword",
+        "iconUrl": "items/components/bf_sword.png"
+    },
+        {
+        "id": 3,
+        "name": "Needlessly Large Rod",
+        "iconUrl": "items/components/needlessly_large_rod.png"
+    },
+        {
+        "id": 4,
+        "name": "Tear of Goddess",
+        "iconUrl": "items/components/tear_of_the_goddess.png"
+    },
+        {
+        "id": 5,
+        "name": "Giant's Belt",
+        "iconUrl": "items/components/giant_belt.png"
+    },
+        {
+        "id": 6,
+        "name": "Chain Vest",
+        "iconUrl": "items/components/chain_vest.png"
+    },
+        {
+        "id": 7,
+        "name": "Negatron Cloak",
+        "iconUrl": "items/components/negatron_cloak.png"
+    },
+        {
+        "id": 8,
+        "name": "Frying Pan",
+        "iconUrl": "items/components/frying_pan.png"
+    },
+    {
+        "id": 9,
+        "name": "Golden Spatula",
+        "iconUrl": "items/components/golden_spatula.png"
+    }
+]

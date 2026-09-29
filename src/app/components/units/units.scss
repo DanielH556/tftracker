@@ -1,0 +1,169 @@
+.units-container {
+    color: var(--white);
+    font-family: "Advent Pro", sans-serif;
+    font-size: 28px;
+
+    border: 5px solid var(--white);
+    border-radius: 30px;
+
+    width: 321px;
+    height: 376px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+
+    padding: 20px;
+    margin: 0;
+
+    h1 {
+        margin: 0;
+    }
+
+    .unit-filter-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+
+        app-unit-button {
+            border: 5px solid var(--white);
+            border-radius: 10px;
+        }
+
+        .one-cost {
+            color: #858585;
+            border-color: #858585;
+        }
+
+        .one-cost:hover {
+            cursor: pointer;
+            color: #ffffff;
+            border-color: #ffffff;
+            transition: 0.5ms;
+        }
+
+        .one-cost.active {
+            color: #ffffff;
+            border-color: #ffffff;
+        }
+        
+        .two-cost {
+            color: #1b9e20;
+            border-color: #1b9e20;
+        }
+
+        .two-cost:hover {
+            cursor: pointer;
+            color: #9aff86;
+            border-color: #9aff86;
+            transition: 0.5ms;
+        }
+
+        .two-cost.active {
+            color: #9aff86;
+            border-color: #9aff86;
+        }
+    
+        .three-cost {
+            color: #11508e;
+            border-color: #11508e;
+        }
+         
+        .three-cost:hover {
+            cursor: pointer;
+            color: #107fee;
+            border-color: #107fee;
+            transition: 0.5ms;
+        }
+        
+        .three-cost.active {
+            color: #107fee;
+            border-color: #107fee;
+        }
+    
+        .four-cost {
+            color: #a52888;
+            border-color: #a52888;
+        }
+
+        .four-cost:hover {
+            cursor: pointer;
+            color: #fa19c6;
+            border-color: #fa19c6;
+            transition: 0.5ms;
+        }
+
+        .four-cost.active {
+            color: #fa19c6;
+            border-color: #fa19c6;
+        }
+    
+        .five-cost {
+            color: #a59b31;
+            border-color: #a59b31;
+        }
+        
+        .five-cost:hover {
+            cursor: pointer;
+            color: #ffea00;
+            border-color: #ffea00;
+            transition: 0.5ms;
+        }
+
+        .five-cost:hover {
+            color: #ffea00;
+            border-color: #ffea00;
+        }
+    }
+
+    .units-list-container {
+        display: grid;
+        grid-template-columns: repeat(5, 55px);
+        justify-content: left;
+
+        overflow-y: auto;
+
+        flex-wrap: wrap;
+        
+        max-width: 400px;
+    }
+    
+    .unit-icon {
+        position: absolute;
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+
+    .unit-icon:hover {
+        cursor: pointer;
+    }
+
+    .unit-icon:checked {
+        cursor: pointer;
+
+        opacity: 100%;
+    }
+
+    .image-label {
+        cursor: pointer;
+        display: inline-block;
+    }
+
+    .checkbox-image {
+        width: 55px;
+        height: 60px;
+
+        filter: grayscale(100%) opacity(60%);
+    }
+
+    .unit-icon:checked + .image-label .checkbox-image {
+        filter: grayscale(0%) opacity(100%);
+        transform: scale(1.03);
+    }
+
+    .unit.offset {
+        margin-left: 30px;
+    }
+    
+}

@@ -1,0 +1,173 @@
+{
+    "RedBuff": {
+        "components": ["Recurve Bow", "Recurve Bow"]
+    },
+    "ThiefGlove": {
+        "components": ["Sparring Glove", "Sparring Glove"]
+    },
+    "DeathBlade": {
+        "components": ["B.F Sword", "B.F Sword"]
+    },
+    "Rabadon": {
+        "components": ["Needlesly Large Rod", "Needlesly Large Rod"]
+    },
+    "BlueBuff": {
+        "components": ["Tear of Goddess", "Tear of Goddess"]
+    },
+    "Warmog": {
+        "components": ["Giant Belt", "Giant Belt"]
+    },
+    "Thornmail": {
+        "components": ["Chain Vest", "Chain Vest"]
+    },
+    "DragonClaw": {
+        "components": ["Negatron Cloak", "Negatron Cloak"]
+    },
+    "LastWhisper": {
+        "components": ["Recurve Bow", "Sparring Glove"]
+    },
+    "GiantSlayer": {
+        "components": ["B.F Sword", "Recurve Bow"]
+    },
+    "Guinsoo": {
+        "components": ["Recurve Bow", "Needlesly Large Rod"]
+    },
+    "VoidStaff": {
+        "components": ["Recurve Bow", "Tear of Goddess"]
+    },
+    "Nashor": {
+        "components": ["Recurve Bow", "Giant Belt"]
+    },
+    "TitanResolve": {
+        "components": ["Recurve Bow", "Chain Vest"]
+    },
+    "KrakenFury": {
+        "components": ["Recurve Bow", "Negatron Cloak"]
+    },
+    "InfinityEdge": {
+        "components": ["Sparring Glove", "B.F Sword"]
+    },
+    "JeweledGauntlet": {
+        "components": ["Sparring Glove", "Needlesly Large Rod"]
+    },
+    "HandOfJustice": {
+        "components": ["Sparring Glove", "Tear of Goddess"]
+    },
+    "StrikerFlail": {
+        "components": ["Sparring Glove", "Giant Belt"]
+    },
+    "Steadfast Heart": {
+        "components": ["Sparring Glove", "Chain Vest"]
+    },
+    "Quicksilver": {
+        "components": ["Sparring Glove", "Negatron Cloak"]
+    },
+    "Gunblade": {
+        "components": ["B.F Sword", "Needlesly Large Rod"]
+    },
+    "Shojin": {
+        "components": ["B.F Sword", "Tear of Goddess"]
+    },
+    "Sterak": {
+        "components": ["B.F Sword", "Giant Belt"]
+    },
+    "Edge of Night": {
+        "components": ["B.F Sword", "Chain Vest"]
+    },
+    "Bloodthirst": {
+        "components": ["B.F Sword", "Negatron Cloak"]
+    },
+    "Archangel": {
+        "components": ["Needlesly Large Rod", "Tear of Goddess"]
+    },
+    "Morello": {
+        "components": ["Needlesly Large Rod", "Giant Belt"]
+    },
+    "Crownguard": {
+        "components": ["Needlesly Large Rod", "Chain Vest"]
+    },
+    "Ionic": {
+        "components": ["Needlesly Large Rod", "Negatron Cloak"]
+    },
+    "Visage": {
+        "components": ["Tear of Goddess", "Giant Belt"]
+    },
+    "Vow": {
+        "components": ["Tear of Goddess", "Chain Vest"]
+    },
+    "JakSho": {
+        "components": ["Tear of Goddess", "Negatron Cloak"]
+    },
+    "Sunfire": {
+        "components": ["Giant Belt", "Chain Vest"]
+    },
+    "Evenshroud": {
+        "components": ["Giant Belt", "Negatron Cloak"]
+    },
+    "Gargoyle": {
+        "components": ["Chain Vest", "Negatron Cloak"]
+    },
+    "Brawler Emblem": {
+        "components": ["Frying Pan", "Giant Belt"]
+    },
+    "Executioner Emblem": {
+        "components": ["Frying Pan", "Sparring Glove"]
+    },
+    "Invoker Emblem": {
+        "components": ["Frying Pan", "Tear of Goddess"]
+    },
+    "Vanguard Emblem": {
+        "components": ["Frying Pan", "Chain Vest"]
+    },
+    "Rapidfire Emblem": {
+        "components": ["Frying Pan", "Recurve Bow"]
+    },
+    "Hunter Emblem": {
+        "components": ["Frying Pan", "B.F Sword"]
+    },
+    "Spellweaver Emblem": {
+        "components": ["Frying Pan", "Needlesly Large Rod"]
+    },
+    "Ravager Emblem": {
+        "components": ["Frying Pan", "Negatron Cloak"]
+    },
+    "Fae Emblem": {
+        "components": ["Gold Spatula", "B.F Sword"]
+    },
+    "Elderwood Emblem": {
+        "components": ["Gold Spatula", "Chain Vest"]
+    },
+    "Lunar Emblem": {
+        "components": ["Gold Spatula", "Tear of Goddess"]
+    },
+    "Sprykin Emblem": {
+        "components": ["Gold Spatula", "Negatron Cloak"]
+    },
+    "Inferno Emblem": {
+        "components": ["Gold Spatula", "Recurve Bow"]
+    },
+    "Blossom Emblem": {
+        "components": ["Gold Spatula", "Needlesly Large Rod"]
+    },
+    "Primal Emblem": {
+        "components": ["Gold Spatula", "Sparring Glove"]
+    },
+    "Blackthorn Emblem": {
+        "components": ["Gold Spatula", "Giant Belt"]
+    },
+    "Flora Fatalis Upgraded Emblem": {
+        "components": []
+    },
+    "Defender Emblem": {
+        "components": []
+    },
+    "Juggernaut Emblem": {
+        "components": []
+    },
+    "Flora Fatalis Emblem": {
+        "components": []
+    },
+    "Coven Emblem": {
+        "components": []
+    }
+}

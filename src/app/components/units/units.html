@@ -1,0 +1,29 @@
+<div class="units-container">
+    <h1>Units</h1>
+    <div class="unit-filter-container">
+        @for (button of filterButtons; track button.id) {
+            <app-unit-button 
+                [costLabel]="button.name" 
+                class="{{button.classLabel}}-cost"
+                (filter)="setFilter($event)"
+                [class.active]="selectedCost === +button.name.replace('c','')"
+            />
+        }
+    </div>
+    <div class="units-list-container">
+        @for (entry of filteredUnits; track entry[1].id; let i = $index) {
+            <div class="unit" [class.offset]="Math.floor(i / 5) % 2 === 1">
+                <app-unit 
+                    [name]="entry[0]" 
+                    [unit]="entry[1]" 
+                    [cost]="entry[1].cost" 
+                    [trait]="entry[1].trait"
+                    [trait2]="entry[1].trait2"
+                    [origin]="entry[1].origin"
+                    [origin2]="entry[1].origin2"
+                    [icon]="entry[1].icon"
+                />
+            </div>
+        }
+    </div>
+</div>

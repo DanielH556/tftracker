@@ -1,0 +1,82 @@
+{
+    "Adaptor Yi": {
+        "units": [ "Master Yi", "Gromp", "Scuttlecrab", "Yorick", "BlossomUnit" ],
+        "finalComp": ["Master Yi Reroll"]
+    },
+    "Blackthorn Brawler": {
+        "units": [ "Rek'Sai", "Warwick", "Brawler", "Ravager" ],
+        "finalComp": ["Sivir Nidalee", "Warwick Reroll"]
+    },
+    "Blackthorn Kha'Zix": {
+        "units": [ "Kha'Zix", "Rek'Sai", "Veigar", "Warwick", "Azir" ],
+        "finalComp": ["Blackthorn Kha'Zix"]
+    },
+    "Blossom": {
+        "units": [ "Karma", "Yorick", "Yunara", "Juggernaut", "Spellweaver" ],
+        "finalComp": ["Blossom Fast 9", "Blossom", "Invoker Ahri", "Spellweaver Ahri"]
+    },
+    "Brawler Executioner": {
+        "units": [ "Rek'Sai", "Yunara", "Allistar", "Azir" ],
+        "finalComp": ["Yunara Executioner"]
+    },
+    "Coven": {
+        "units": [ "Camille", "Caitlyn", "Casiopeia", "Elise" ],
+        "finalComp": ["Defender Cassiopeia", "Invoker Brambleback", "Invoker Nidalee"]
+    },
+    "Defender Cassiopeia": {
+        "units": [ "Cassiopeia", "FiddleSticks" ],
+        "finalComp": ["Defender Cassiopeia"]
+    },
+    "Elderwood": {
+        "units": [ "Ornn", "Allistar", "LeBlanc", "Veigar", "Rek'Sai" ],
+        "finalComp": ["Soraka Flex"]
+    },
+    "Elderwood Rapidfire": {
+        "units": [ "Ornn", "Varus", "Xayah", "Rakan", "Hecarim" ],
+        "finalComp": ["Draven Fast 9", "Elderwood Aphelios", "Vanguard Aphelios"]
+    },
+    "Inferno Rapidfire": {
+        "units": [ "Xayah", "Varus", "Akali", "Shen", "Ornn" ],
+        "finalComp": ["Draven Fast 9", "Vanguard Aphelios", "Sivir Nidalee"]
+    },
+    "Invokers": {
+        "units": [ "2 Invoker", "2 Juggernaut" ],
+        "finalComp": ["Invoker Brambleback", "Invoker Nidalee"]
+    },
+    "Juggernaut Hunter": {
+        "units": [ "Caitlyn", "Scuttlecrab", "Sejuani", "Cinderling" ],
+        "finalComp": ["Caitlyn Reroll", "Sivir Hunters"]
+    },
+    "Ravager": {
+        "units": [ "Camille", "Shen", "Akali" ],
+        "finalComp": ["Sivir Nidalee"]
+    },
+    "Rengar Rapidfire": {
+        "units": [ "Rengar", "Xayah", "Rakan", "Rapidfire", "Juggernaut" ],
+        "finalComp": ["Rengar Reroll"]
+    },
+    "Riftbeast": {
+        "units": [ "5 Riftbeasts" ],
+        "finalComp": ["Pebbles Reroll", "Riftbeast Tempo", "Riftbeast Brambleback"]
+    },
+    "Solar Inferno": {
+        "units": [ "Leona", "Sejuani", "Kayle", "Varus", "Shen" ],
+        "finalComp": ["Inferno Kayle Reroll"]
+    },
+    "Solar Xayah": {
+        "units": [ "Leona", "Xayah", "Sejuani", "Kayle", "Ornn" ],
+        "finalComp": ["Elderwood Kayle Reroll"]
+    },
+    "Sprykin Tristana": {
+        "units": [ "Tristana", "Kobuko", "Rakan" ],
+        "finalComp": ["Tristana Reroll"]
+    },
+    "Unrivaled": {
+        "units": [ "Kha'Zix", "Rengar", "Hecarim", "LeBlanc", "Elderwood" ],
+        "finalComp": ["Unrivaled Kha'Zix Rengar"]
+    },
+    "Veigar Sprykin": {
+        "units": [ "Veigar", "Kobuko", "Rek'Sai" ],
+        "finalComp": ["Veigar Reroll"]
+    }
+}
