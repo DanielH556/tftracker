@@ -12,7 +12,7 @@
     </div>
     <div class="units-list-container">
         @for (entry of filteredUnits; track entry[1].id; let i = $index) {
-            <div class="unit" [class.offset]="Math.floor(i / 5) % 2 === 1">
+            <div class="unit" [class.offset]="Math.floor(i / 6) % 2 === 1">
                 <app-unit 
                     [name]="entry[0]" 
                     [unit]="entry[1]" 

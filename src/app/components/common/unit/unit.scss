@@ -21,8 +21,11 @@
 }
 
 .checkbox-image {
-    width: 55px;
-    height: 60px;
+    width: 100%;
+    min-width: 40px;
+
+    height: 100%;
+    min-height: 42px;
 
     filter: grayscale(100%) opacity(60%);
 }

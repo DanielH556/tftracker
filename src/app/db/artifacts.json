@@ -1,0 +1,122 @@
+{
+    "Dawncore": {
+        "id": 1,
+        "iconUrl": "items/artifacts/DA_Artifact_Dawncore.png"
+    },
+        "Luden Tempest": {
+        "id": 2,
+        "iconUrl": "items/artifacts/DA_Artifact_LudensTempest.png"
+    },
+        "Eternal Pact": {
+        "id": 3,
+        "iconUrl": "items/artifacts/DA_Artifact_EternalPact.png"
+    },
+        "Lightshield Crest": {
+        "id": 4,
+        "iconUrl": "items/artifacts/DA_Artifact_LightshieldCrest.png"
+    },
+        "Silvermere Dawn": {
+        "id": 5,
+        "iconUrl": "items/artifacts/DA_Artifact_SilvermereDawn.png"
+    },
+        "Lich Bane": {
+        "id": 6,
+        "iconUrl": "items/artifacts/DA_Artifact_LichBane.png"
+    },
+        "Manazane": {
+        "id": 7,
+        "iconUrl": "items/artifacts/DA_Artifact_Manazane.png"
+    },
+        "Talisman of Ascension": {
+        "id": 8,
+        "iconUrl": "items/artifacts/DA_Item_TalismanOfAscension.png"
+    },
+        "Blighting Jewel": {
+        "id": 9,
+        "iconUrl": "items/artifacts/DA_Artifact_BlightingJewel.png"
+    },
+        "Horizon Focus": {
+        "id": 10,
+        "iconUrl": "items/artifacts/DA_Artifact_HorizonFocus.png"
+    },
+        "Infinity Force": {
+        "id": 11,
+        "iconUrl": "items/artifacts/DA_Artifact_InfinityForce.png"
+    },
+        "Wit's End": {
+        "id": 12,
+        "iconUrl": "items/artifacts/DA_Artifact_WitsEnd.png"
+    },
+        "Void Gauntlet": {
+        "id": 13,
+        "iconUrl": "items/artifacts/DA_Artifact_VoidGauntlet.png"
+    },
+        "Zhonya's Paradox": {
+        "id": 14,
+        "iconUrl": "items/artifacts/DA_Artifact_ZhonyasParadox.png"
+    },
+        "Aegis of Dusk": {
+        "id": 15,
+        "iconUrl": "items/artifacts/DA_Artifact_AegisOfDusk.png"
+    },
+        "Gold Collector": {
+        "id": 16,
+        "iconUrl": "items/artifacts/DA_Artifact_GoldCollector.png"
+    },
+        "The Indomitable": {
+        "id": 17,
+        "iconUrl": "items/artifacts/DA_Artifact_TheIndomitable.png"
+    },
+        "Statikk Shiv": {
+        "id": 18,
+        "iconUrl": "items/artifacts/DA_Artifact_StatikkShive.png"
+    },
+        "Hellfire Hatchet": {
+        "id": 19,
+        "iconUrl": "items/artifacts/DA_Artifact_HellfireHatchet.png"
+    },
+        "Navori's Flickerblades": {
+        "id": 20,
+        "iconUrl": "items/artifacts/DA_Artifact_NavoriFlickerblade.png"
+    },
+        "Seeker's Armguard": {
+        "id": 21,
+        "iconUrl": "items/artifacts/DA_Artifact_SeekersArmguard.png"
+    },
+        "Mittens": {
+        "id": 22,
+        "iconUrl": "items/artifacts/DA_Artifact_Mittens.png"
+    },
+        "Aegis of Dawn": {
+        "id": 23,
+        "iconUrl": "items/artifacts/DA_Artifact_AegisOfDawn.png"
+    },
+        "Gambler's Blade": {
+        "id": 24,
+        "iconUrl": "items/artifacts/DA_Artifact_GamblersBlade.png"
+    },
+        "Hullcrusher": {
+        "id": 25,
+        "iconUrl": "items/artifacts/DA_Artifact_Hullcrusher.png"
+    },
+        "Titanic Hydra": {
+        "id": 26,
+        "iconUrl": "items/artifacts/DA_Artifact_TitanicHydra.png"
+    },
+        "Forbidden Idol": {
+        "id": 27,
+        "iconUrl": "items/artifacts/DA_Artifact_ForbiddenIdol.png"
+    },
+        "Fishbones": {
+        "id": 28,
+        "iconUrl": "items/artifacts/DA_Artifact_Fishbones.png"
+    },
+        "Mogul's Mail": {
+        "id": 29,
+        "iconUrl": "items/artifacts/DA_Artifact_MogulsMail.png"
+    },
+        "Rapid Firecannon": {
+        "id": 30,
+        "iconUrl": "items/artifacts/DA_Artifact_RapidFireCannon.png"
+    }
+}
