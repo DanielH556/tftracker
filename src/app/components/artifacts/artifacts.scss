@@ -3,7 +3,7 @@
     max-width: 270px;
 
     height: 100%;
-    max-height: 160px;
+    min-height: 180px;
 
     padding: 20px;
     margin: 0;
@@ -17,17 +17,5 @@
 
         color: var(--white);
         font-size: 30px;
-    }
-
-    .item-component-container {
-        display: flex;
-        flex-direction: row;
-        justify-content: left;
-        flex-wrap: wrap;
-
-        padding: 0;
-
-        width: 100%;
-        max-width: 260px;
     }
 }
